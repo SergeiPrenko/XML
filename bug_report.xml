@@ -1,1 +1,19 @@
+<?xml version="1.0"?>
 
+<dug>
+  <id> 1001 <id>
+  <heder> heder <heder>
+  <environment> environment <environment>
+  <severity> high <severity>
+  <status> to do <status>
+  <author> Prenko S <author>
+    <steps reproduce> 
+      1
+      2
+      3
+      4
+      5 
+    <steps reproduce>
+  <result> result <result>
+  <expected result> expected result <expected result>,
+  <additions> skreenshot <additions>
